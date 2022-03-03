@@ -1,0 +1,20 @@
+{
+  "name": "untroddenlab",
+  "version": "1.0.0",
+  "description": "assignment for internship",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "let's",
+    "start"
+  ],
+  "author": "tushar grover",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "mongoose": "^6.2.4"
+  }
+}
